@@ -1,5 +1,6 @@
-# This work was done as a course group project in UBC MDS-CL COLX 521. 
+# Classification of Texts written by ESL students from Asian countries 
 
+This work was done as a course group project in UBC MDS-CL COLX 521. 
 The members of this group are: 
 
      Christina Park
