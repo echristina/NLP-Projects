@@ -1,3 +1,3 @@
-Please note that the project details are available at the link [FHIS](https://github.com/miataigeli/capstone_FHIS).
-
-This project was completed to fulfill the degree requirement of UBC MDS-Computational Linguistics and was done in collaboration with Darya Shyroka, Mia Li, Shreyas Shankar and UBC Department of Linguistics.  
+- Please note that the project details are available at the link [FHIS](https://github.com/miataigeli/capstone_FHIS).
+- This project was completed to fulfill the degree requirement of UBC MDS-Computational Linguistics.
+- This project was done in collaboration with Darya Shyroka, Mia Li, Shreyas Shankar and UBC Department of Linguistics.  
