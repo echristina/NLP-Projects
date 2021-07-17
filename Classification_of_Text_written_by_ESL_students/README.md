@@ -1,8 +1,4 @@
-# COLX_521_LAB4_GROUP5
-COLX_521_LAB4_GROUP5
-
-This repository contains COLX-521 Lab 4 for Group 5. 
-- The contents are organized in `Lab4_organized.ipynb`.
+# This work was done as a course group project in UBC MDS-CL COLX 521. 
 
 The members of this group are: 
 
