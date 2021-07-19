@@ -13,6 +13,8 @@ The members of this group are:
    
  (ordered alphabetically based on the first name).
  
+ # Execution Instructions
+ 
  * Ensure that your working directory contains the following directories and files.  - data / lang-8.zip
       - data / asian_cities.txt
       - data / asian_culture.txt
