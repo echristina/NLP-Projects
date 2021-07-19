@@ -1,8 +1,9 @@
-# Classification of Texts written by ESL students from Asian countries 
+# Classification of Texts written by ESL students from European and Asian countries 
 
-This project is to classify texts written by ESL students from Asian countries. 
+Disclaimer: This project was done as a part of the course requirement for MDS-CL program (UBC MDS-CL COLX 521). 
 
-This work was done as a course group project in UBC MDS-CL COLX 521. 
+This project creates an end-to-end classification system using a corpus of HTML documents scrapped from the Lang-8 language learning website. In particular, we build a classifier to distinguish English text written by Lang-8 users whose native language (L1) is another European language (French and Spanish) from those written by L1 speakers of East Asian languages (Japanese, Korean, and Mandarin Chinese). 
+
 The members of this group are: 
 
      Christina Park
