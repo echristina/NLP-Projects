@@ -1,7 +1,6 @@
-# COLX_521_LAB4_GROUP5
-COLX_521_LAB4_GROUP5
+# Classification of Texts written by ESL students 
 
-This repository contains COLX-521 Lab 4 for Group 5. 
+This repository contains a group project completed to meet the requirement of UBC-MDS CL. 
 - The contents are organized in `Lab4_organized.ipynb`.
 
 The members of this group are: 
