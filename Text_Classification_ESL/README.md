@@ -4,9 +4,9 @@
 This project creates an end-to-end classification system using a corpus of HTML documents scrapped from the Lang-8 language learning website. We build a classifier to distinguish English text written by Lang-8 users whose native language (L1) is another European language (French and Spanish) from those written by L1 speakers of East Asian languages (Japanese, Korean, and Mandarin Chinese). 
 
 ### Acknowledgment
-- This is an academic project to meet the requirements of the course taught by Dr. J. Brooke. 
+- This is an academic project. 
 - Please note that due to privacy issues, we do not provide the dataset. 
-- I thank Dr. Brooke and my team members for allowing me to make this project public. 
+- I thank UBC-MDS CL and my team members for allowing me to make this project public. 
 - The members of this group are: 
 ```
      Christina Park
