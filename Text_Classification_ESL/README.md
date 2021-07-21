@@ -9,7 +9,7 @@ This project creates an end-to-end classification system using a corpus of HTML 
 - I thank my team members for allowing me to make this project public. 
 
 ### Contents
-- The contents are organized in `Lab4_organized.ipynb`.
+- The codes are organized in `Text_Classification_ESL.ipynb`.
 
 The members of this group are: 
 
