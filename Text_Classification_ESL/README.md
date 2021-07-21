@@ -5,7 +5,10 @@ This project creates an end-to-end classification system using a corpus of HTML 
 
 ### Acknowledgment
 This repository contains a group project completed to meet the requirement of UBC-MDS CL. 
-Please note that due to privacy issues, we cannot provide the dataset. 
+
+Please note that due to privacy issues, we do not provide the dataset. 
+
+I thank my team members for allowing me to make this project public. 
 
 ### Contents
 - The contents are organized in `Lab4_organized.ipynb`.
