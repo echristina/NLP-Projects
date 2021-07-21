@@ -1,0 +1,18 @@
+japan
+macao
+tianjin
+incheon
+osaka
+shanghai
+hiroshima
+busan
+beijing
+chongqing
+korea
+shenzhen
+seoul
+guangzhou
+tokyo
+china
+hong kong
+taegu
