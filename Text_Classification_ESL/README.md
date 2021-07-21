@@ -8,12 +8,12 @@ This project creates an end-to-end classification system using a corpus of HTML 
 - Please note that due to privacy issues, we do not provide the dataset. 
 - I thank my team members for allowing me to make this project public. 
 - The members of this group are: 
-
+```
      Christina Park
      Daniel Cheng
      Jin Cho
      Sheena Salwan 
-   
+```  
  (ordered alphabetically based on the first name).
 
 ### Contents
