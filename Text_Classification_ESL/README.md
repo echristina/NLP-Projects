@@ -4,14 +4,10 @@
 This project creates an end-to-end classification system using a corpus of HTML documents scrapped from the Lang-8 language learning website. We build a classifier to distinguish English text written by Lang-8 users whose native language (L1) is another European language (French and Spanish) from those written by L1 speakers of East Asian languages (Japanese, Korean, and Mandarin Chinese). 
 
 ### Acknowledgment
-- This repository contains a group project completed to meet the requirement of UBC-MDS CL. 
+- This is an academic project. 
 - Please note that due to privacy issues, we do not provide the dataset. 
 - I thank my team members for allowing me to make this project public. 
-
-### Contents
-- The codes are organized in `Text_Classification_ESL.ipynb`.
-
-The members of this group are: 
+- The members of this group are: 
 
      Christina Park
      Daniel Cheng
@@ -19,7 +15,10 @@ The members of this group are:
      Sheena Salwan 
    
  (ordered alphabetically based on the first name).
- 
+
+### Contents
+- The codes are organized in `Text_Classification_ESL.ipynb`.
+
  * Ensure that your working directory contains the following directories and files.
       - data / lang-8.zip                               (unfortunately, this file cannot be provided for privacy issues)
       - data / asian_cities.txt
