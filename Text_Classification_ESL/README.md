@@ -5,7 +5,7 @@ This project creates an end-to-end classification system using a corpus of HTML 
 
 ### Acknowledgment
 - This is an academic project. 
-- Please note that due to privacy issues, we do not provide the dataset. 
+- Please note that due to privacy issues, we do not provide the dataset or the codes. 
 - I thank UBC-MDS CL and my team members for allowing me to make this project public. 
 - The members of this group are: 
 ```
@@ -18,7 +18,7 @@ This project creates an end-to-end classification system using a corpus of HTML 
 
 ### Contents
 
- * Ensure that your working directory contains the following directories and files.
+ * This directory contains the following sub-directories and files.
       - data / lang-8.zip                               (unfortunately, this file cannot be provided for privacy issues)
       - data / asian_cities.txt
       - data / asian_culture.txt
