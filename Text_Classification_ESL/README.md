@@ -15,6 +15,9 @@ This project creates an end-to-end classification system using a corpus of HTML 
      Sheena Salwan 
 ```  
  (ordered alphabetically based on the first name).
+ 
+ ### Results
+ We obtained 71% accuracy using the Decision Tree Classifier and won the second highest score in class. 
 
 ### Contents
 
