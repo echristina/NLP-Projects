@@ -17,7 +17,6 @@ This project creates an end-to-end classification system using a corpus of HTML 
  (ordered alphabetically based on the first name).
 
 ### Contents
-- The codes are organized in `Text_Classification_ESL.ipynb`.
 
  * Ensure that your working directory contains the following directories and files.
       - data / lang-8.zip                               (unfortunately, this file cannot be provided for privacy issues)
